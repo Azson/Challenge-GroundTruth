@@ -1,6 +1,7 @@
 
 {
     "test" : {
+        "video" : 100,
         "audio" : 100,
         "recv_rate" : 500
     }
