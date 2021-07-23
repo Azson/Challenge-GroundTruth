@@ -155,17 +155,17 @@
     },
     "0553ebe0407ee1d7e151f5d2b07a4dce": {
         "name": "scenario_animation_part_1",
-        "video_md5": "c7079f1d159edb0e6aa82a8e51528278",
-        "video": 60.967011,
-        "audio": 27.239781618118286,
-        "recv_rate": 247.72316464132945
+        "video_md5" : "513fedbc38d2effca6ace2270417b3ac",
+        "video" : 65.251084,
+        "audio" : 27.239781618118286,
+        "recv_rate" : 238.5998270679766
     },
     "373726920942ce8079bd9aa753516d71": {
         "name": "scenario_animation_part_2",
-        "video_md5": "e51340aca44ed07ae9b53a51d2ef13f1",
-        "video": 52.675863,
-        "audio": 29.32456135749817,
-        "recv_rate": 247.68507684768153
+        "video_md5" : "34f3210f8fb63fb71a67513b39469c47",
+        "video" : 60.321435,
+        "audio" : 29.32456135749817,
+        "recv_rate" : 237.27905254240915
     },
     "356d691f43afabd8aae4ed5c1d846abb": {
         "name": "scenario_animation_part_3",
@@ -183,10 +183,10 @@
     },
     "ab97996960e3dfb29eb5a8fd6cca08fe": {
         "name": "scenario_captain_part_2",
-        "video_md5": "65ab467b73f879811f285f683b47ef3f",
-        "video": 68.506263,
-        "audio": 37.78147101402283,
-        "recv_rate": 249.50026275850922
+        "video_md5" : "27a24c21b90dece24c86b9e2b1e8ab37",
+        "video" : 74.312578,
+        "audio" : 37.78147101402283,
+        "recv_rate" : 236.25634451008995
     },
     "468e9c01ec9b7df3639fd0f32179a408": {
         "name": "scenario_captain_part_3",
@@ -204,10 +204,10 @@
     },
     "f8d8906b53a23f171e8006cb66f1fdbf": {
         "name": "scenario_presentation_part_2",
-        "video_md5": "49a1c62cba58194ac752521b3a56333d",
-        "video": 85.718062,
-        "audio": 64.58348631858826,
-        "recv_rate": 249.732367382821
+        "video_md5" : "fc869dbf8836aad87469ac6f06f552c4",
+        "video" : 72.892937,
+        "audio" : 64.58348631858826,
+        "recv_rate" : 237.9876779651184
     },
     "9c485698b25fa60f62746e3531d94bcf": {
         "name": "scenario_presentation_part_3",
@@ -218,17 +218,17 @@
     },
     "5ba13f940ed221ccd60fc24445fdd315": {
         "name": "scenario_remote_part_1",
-        "video_md5": "2e824d0d17e1d19d5fb605c04819068e",
-        "video": 48.28264,
-        "audio": 39.36223387718201,
-        "recv_rate": 249.57052961487707
+        "video_md5" : "e38674dd10750d47c5989c035639798c",
+        "video" : 54.678756,
+        "audio" : 39.36223387718201,
+        "recv_rate" : 238.3524423802879
     },
     "de21ddd9b083fa870c68e588423c9910": {
         "name": "scenario_remote_part_2",
-        "video_md5": "b24aaf2e50152df6288a968cb24bb036",
-        "video": 48.905182,
-        "audio": 36.646342277526855,
-        "recv_rate": 249.2508104692171
+        "video_md5" : "4a0acd4c98aaaab1ee3576343517abb7",
+        "video" : 87.724748,
+        "audio" : 36.646342277526855,
+        "recv_rate" : 235.65837090220126
     },
     "ee29d13fa30b9e9de67be88bf71488dd": {
         "name": "scenario_remote_part_3",
@@ -365,17 +365,17 @@
     },
     "scenario_animation_part_1": {
         "name": "scenario_animation_part_1",
-        "video_md5": "c7079f1d159edb0e6aa82a8e51528278",
-        "video": 60.967011,
-        "audio": 27.239781618118286,
-        "recv_rate": 247.72316464132945
+        "video_md5" : "513fedbc38d2effca6ace2270417b3ac",
+        "video" : 65.251084,
+        "audio" : 27.239781618118286,
+        "recv_rate" : 238.5998270679766
     },
     "scenario_animation_part_2": {
         "name": "scenario_animation_part_2",
-        "video_md5": "e51340aca44ed07ae9b53a51d2ef13f1",
-        "video": 52.675863,
-        "audio": 29.32456135749817,
-        "recv_rate": 247.68507684768153
+        "video_md5" : "34f3210f8fb63fb71a67513b39469c47",
+        "video" : 60.321435,
+        "audio" : 29.32456135749817,
+        "recv_rate" : 237.27905254240915
     },
     "scenario_animation_part_3": {
         "name": "scenario_animation_part_3",
@@ -393,10 +393,10 @@
     },
     "scenario_captain_part_2": {
         "name": "scenario_captain_part_2",
-        "video_md5": "65ab467b73f879811f285f683b47ef3f",
-        "video": 68.506263,
-        "audio": 37.78147101402283,
-        "recv_rate": 249.50026275850922
+        "video_md5" : "27a24c21b90dece24c86b9e2b1e8ab37",
+        "video" : 74.312578,
+        "audio" : 37.78147101402283,
+        "recv_rate" : 236.25634451008995
     },
     "scenario_captain_part_3": {
         "name": "scenario_captain_part_3",
@@ -414,10 +414,10 @@
     },
     "scenario_presentation_part_2": {
         "name": "scenario_presentation_part_2",
-        "video_md5": "49a1c62cba58194ac752521b3a56333d",
-        "video": 85.718062,
-        "audio": 64.58348631858826,
-        "recv_rate": 249.732367382821
+        "video_md5" : "fc869dbf8836aad87469ac6f06f552c4",
+        "video" : 72.892937,
+        "audio" : 64.58348631858826,
+        "recv_rate" : 237.9876779651184
     },
     "scenario_presentation_part_3": {
         "name": "scenario_presentation_part_3",
@@ -428,17 +428,17 @@
     },
     "scenario_remote_part_1": {
         "name": "scenario_remote_part_1",
-        "video_md5": "2e824d0d17e1d19d5fb605c04819068e",
-        "video": 48.28264,
-        "audio": 39.36223387718201,
-        "recv_rate": 249.57052961487707
+        "video_md5" : "e38674dd10750d47c5989c035639798c",
+        "video" : 54.678756,
+        "audio" : 39.36223387718201,
+        "recv_rate" : 238.3524423802879
     },
     "scenario_remote_part_2": {
         "name": "scenario_remote_part_2",
-        "video_md5": "b24aaf2e50152df6288a968cb24bb036",
-        "video": 48.905182,
-        "audio": 36.646342277526855,
-        "recv_rate": 249.2508104692171
+        "video_md5" : "4a0acd4c98aaaab1ee3576343517abb7",
+        "video" : 87.724748,
+        "audio" : 36.646342277526855,
+        "recv_rate" : 235.65837090220126
     },
     "scenario_remote_part_3": {
         "name": "scenario_remote_part_3",
